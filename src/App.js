@@ -10,11 +10,7 @@ export default function App() {
         <footer>
           {" "}
           This project was coded by{" "}
-          <a
-            href="https://lucid-feynman-8ef81b.netlify.app/"
-            target="_blank"
-            rel="noopener"
-          >
+          <a href="https://lucid-feynman-8ef81b.netlify.app/" target="blank">
             {" "}
             Chessa Estuya{" "}
           </a>
