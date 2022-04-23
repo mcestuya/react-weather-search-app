@@ -7,3 +7,26 @@
   font-size: 11px;
   margin: 10px 0;
 }
+
+.container-xxl {
+  padding-top: 100px;
+  color: #dadde1;
+}
+.App .appInfo {
+  padding: 20px;
+  border: 3px solid #dadde1;
+  box-shadow: 5px 5px 5px rgb(210, 207, 191);
+  border-radius: 20px;
+  background-size: 140%;
+  background-repeat: repeat-y;
+  background: linear-gradient(
+    181deg,
+    rgb(2, 0, 97) 15%,
+    rgb(97, 149, 219) 158.5%
+  );
+}
+
+footer {
+  text-align: center;
+  color: black;
+}

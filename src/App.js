@@ -5,9 +5,10 @@ import Weather from "./Weather";
 export default function App() {
   return (
     <div className="App">
-      <div className="container">
-        <Weather defaultCity="Philippines" />
-
+      <div className="container-xxl">
+        <div className="appInfo">
+          <Weather defaultCity="Philippines" />
+        </div>
         <footer>
           {" "}
           This project was coded by{" "}
